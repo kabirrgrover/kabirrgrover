@@ -1,7 +1,7 @@
 # Hi, I'm Kabir 👋  
 Computer Science at UMD • Builder • Founder Energy • AI + Full Stack + Healthcare  
   
-I like shipping products, solving problems, and building things that actually get used. Most of my work lives at the intersection of AI, health, and consumer apps. I focus on creating systems that feel fast, reliable, and genuinely useful.  
+I like shipping products, solving problems, and building things that actually get used. Most of my work lives at the intersection of AI, health, fintech, and consumer apps. I focus on creating systems that feel fast, reliable, and genuinely useful.  
   
 ## 🚀 Some things I am building  
   
@@ -31,6 +31,7 @@ I enjoy working across the stack:
 • Better product design and UX  
 • Modern mobile architectures  
 • Ethical and responsible deployment of AI  
+• Hardcore AI: exploring reinforcement learning, multimodal models, and large language models  
   
 ## 🎓 About me  
 I study Computer Science at the University of Maryland with a minor in Innovation and Entrepreneurship. I like taking ideas from notes to real products. I try to ship something new every month.  
