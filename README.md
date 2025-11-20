@@ -77,6 +77,34 @@ FastAPI • Node.js • Firebase • Supabase • AWS
 
 ---
 
+## 📚 What I'm learning right now
+
+<img align="right" alt="Learning" width="350" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+
+```python
+learning_goals = {
+    "AI": [
+        "Scaling AI systems",
+        "Reinforcement learning",
+        "Multimodal models",
+        "Large language models",
+        "MCP Servers"
+    ],
+    "Product": [
+        "Better product design and UX",
+        "Modern mobile architectures"
+    ],
+    "Ethics": [
+        "Ethical AI deployment",
+        "Responsible AI practices"
+    ]
+}
+```
+
+<br clear="right"/>
+
+---
+
 ## 🎓 About me
 
 🎓 **Education**
